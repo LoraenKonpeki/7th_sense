@@ -23,9 +23,6 @@
 </div>
 
 
-<div align="center">
-
-<img src="assets/banner_7thsense.png" width="720" alt="7th-sense Banner"/>
 
 # **7th-sense**
 ### *“Between Order and Chaos, there is the Seventh Sense.”*
